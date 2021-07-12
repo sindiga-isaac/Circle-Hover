@@ -9,6 +9,7 @@
     flex-wrap: wrap;
     margin-top: 100px;
 }
+
 .circle{
     border-radius: 50px;
     box-shadow: 4px 5px 8px inset rgba(0, 0, 0, 0.294), 4px 5px 8px rgba(0, 0, 0, 0.294),-4px -5px 10px rgb(255, 255, 255), inset -4px -5px 10px rgb(255, 255, 255) ;
