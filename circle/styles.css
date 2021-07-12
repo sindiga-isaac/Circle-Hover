@@ -3,8 +3,6 @@
     padding:0;
     background-color: rgb(233, 233, 233);
 }
-
-
 .box{
     justify-content: space-around;
     display: flex;
